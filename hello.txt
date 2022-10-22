@@ -1,0 +1,3 @@
+# raute
+* stern
+- minus
