@@ -17,7 +17,7 @@ https://explore.transifex.com/languages/
 <br/>
 https://fosdem.org/2024/schedule/track/railways-and-open-transport/
 <br/>
-[https://github.com/OpenRailAssociation](https://github.com/OpenRailAssociation/FOSDEM)
+https://github.com/OpenRailAssociation/FOSDEM/
 <br/>
 https://www.voestalpine.com/railway-systems/de/
 <br/>
